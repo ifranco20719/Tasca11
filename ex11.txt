@@ -1,0 +1,6 @@
+Pere
+Maria
+Ricard
+Isabel
+MªJosé
+'Jordi', 'Claudia', 'David', 'Ayoub', 'Oscar', 'Paula', 'Sebas', 'Anas'
